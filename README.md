@@ -1,4 +1,4 @@
-# Ahmed Gabo El-Naga
+# Ahmed Abo El-Naga
 
 👋 Hello! I’m Ahmed, an aspiring AI/ML engineer with a strong background in computer science. I am dedicated to advancing my expertise in artificial intelligence and machine learning through continuous learning and practical application of programming skills.
 

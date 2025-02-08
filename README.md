@@ -1,35 +1,84 @@
-# Ahmed Aboelnaga
+# **Ahmed Aboelnaga**  
 
-👋 Hello! I’m Ahmed, an aspiring AI/ML engineer with a strong background in computer science. I am dedicated to advancing my expertise in artificial intelligence and machine learning through continuous learning and practical application of programming skills.
+👋 Hey there! I'm Ahmed, a **Data Scientist & Machine Learning Engineer** passionate about solving real-world problems with data, AI, and scalable machine learning models. I thrive on building efficient ML pipelines, developing AI-powered solutions, and leveraging data-driven insights to drive impact. 
 
-## 🎓 Education
-- **Bachelor of Science in Computer Science** (Specialization in Artificial Intelligence)
-- **Completed Courses:**
-  - Introduction to Computer Science
-  - Structured Programming
-  - Object-Oriented Programming
-  - Data Structures
-  - Algorithms (In Progress)
-  - Introduction to Artificial Intelligence (In Progress)
+---
 
-## 🛠️ Technical Skills
-- **Programming Languages:** Python, C++, Java
-- **Frameworks and Libraries:** 
-  - Data Analysis: NumPy, Pandas, Matplotlib, Scikit-learn
-- **Tools and Technologies:** Jupyter Notebooks, Google Colab, Anaconda
-- **Mathematics for Machine Learning:** Linear Algebra, Probability, Statistics
+## **🚀 Projects & Portfolio**  
+🔹 **Customer Churn Prediction** – Built a machine learning model to predict customer retention and optimize business decisions.  
+🔹 **House Price Prediction** – Developed a regression model leveraging feature engineering for accurate pricing.  
+🔹 **Sentiment Analysis on Social Media Data** – NLP-powered model to classify sentiments in tweets and user reviews.  
+🔹 **Marketing & Sales Data Analysis** – Analyzed CRM data with Power BI to track and optimize sales performance.  
+🔹 **AI-Powered Chatbot** – Built an NLP-based chatbot using OpenAI APIs.  
+🔹 **Automated ML Pipelines** – End-to-end MLOps workflow with Azure ML, Docker, and GitHub Actions.  
 
-## 📚 Projects and Experience
-- **AI and Machine Learning Projects:** Engaged in hands-on projects applying AI and machine learning concepts to solve real-world problems.
-- **Data Analysis Projects:** Conducting data analysis and visualization projects to develop skills in data-driven decision-making and insights generation.
+---
 
-## 🌍 Future Aspirations
-- To complete advanced courses in Python and its libraries, enhancing my skill set in data analysis and machine learning.
-- To contribute to open-source projects and collaborate within the AI and tech community.
-- To create educational content, including tutorials and online courses, to share my knowledge and experiences in programming and AI.
+## **🛠️ Technical Skills**  
+### **Programming & Software Engineering**  
+✔ Python | SQL  
+✔ Bash Scripting  
+✔ Git, GitHub (Version Control)  
+✔ CI/CD, Unit Testing, and Software Engineering Best Practices ⏳  
+✔ Familiar with: C++ | Java  
 
-## 📫 Connect with Me
-- Email: [ahmedgaboelnaga@gmail.com](mailto:ahmedgaboelnaga@gmail.com)
-- Phone: +20 1289720964
+### **Machine Learning & AI**  
+✔ Scikit-learn (Supervised & Unsupervised ML)  
+✔ Data Preprocessing & Feature Engineering  
+✔ Power BI | Tableau | Excel  
+✔ Model Deployment & MLOps (Azure ML, Docker, MLflow) ⏳  
+✔ TensorFlow | PyTorch | NLP & LLMs ⏳  
 
-I welcome discussions and collaborations in AI, programming, and data science. Let's connect and explore opportunities together!
+### **Cloud & DevOps**  
+✔ SQL & Database Management  
+✔ Microsoft Azure  
+✔ AWS (S3, EC2, ECS, Lambda) ⏳  
+✔ Cloud Deployments & Scalable ML Systems ⏳  
+✔ Docker & Kubernetes ⏳  
+
+---
+
+## **📚 Education & Certifications**
+
+🎓 **B.Sc. in Computer Science (Artificial Intelligence Specialization)** – Egyptian Russian University  
+
+🔹 **Microsoft Machine Learning Engineer - Digital Egypt Pioneers Initiative**  
+🔹 **Machine Learning by Andrew Ng** (Coursera)  
+🔹 **Deep Learning Specialization** (Coursera) ⏳  
+🔹 **Google Machine Learning Crash Course** ⏳  
+🔹 **Python for Data Analytics** - Luke Barousse  
+🔹 **SQL for Data Analytics** - Luke Barousse  
+🔹 **Excel for Data Analytics** - Luke Barousse  
+🔹 **ChatGPT for Data Analytics** - Luke Barousse  
+🔹 **Associate Data Scientist in Python** (Datacamp) ⏳  
+🔹 **Data Scientist Professional Certificate** (Datacamp) ⏳  
+🔹 **Mathematics for Machine Learning** (Coursera)  
+🔹 **HCIA-AI V3.5 Course** (Huawei)  
+🔹 **Introduction to Statistics**
+
+🔹 **Microsoft Machine Learning Engineer - Digital Egypt Pioneers Initiative**
+
+🔹 **Introduction to Statistics**  
+🎓 **B.Sc. in Computer Science (Artificial Intelligence Specialization)** – Egyptian Russian University  
+
+🔹 **Machine Learning by Andrew Ng** (Coursera)  
+🔹 **Deep Learning Specialization** (Coursera) ⏳  
+🔹 **Google Machine Learning Crash Course** ⏳  
+🔹 **Python for Data Analytics** - Luke Barousse  
+🔹 **SQL for Data Analytics** - Luke Barousse  
+🔹 **Excel for Data Analytics** - Luke Barousse  
+🔹 **ChatGPT for Data Analytics** - Luke Barousse  
+🔹 **Associate Data Scientist in Python** (Datacamp) ⏳  
+🔹 **Data Scientist Professional Certificate** (Datacamp) ⏳  
+🔹 **Mathematics for Machine Learning** (Coursera)  
+🔹 **HCIA-AI V3.5 Course** (Huawei)  
+
+---
+
+## **📫 Connect with Me**  
+📩 **Email:** ahmedgaboelnaga@gmail.com  
+📱 **Phone:** +20 1289720964  
+🌐 **GitHub:** [github.com/ahmedgaboelnaga](https://github.com/ahmedgaboelnaga)  
+🔗 **LinkedIn:** [linkedin.com/in/ahmed-aboelnaga-074440262](https://linkedin.com/in/ahmed-aboelnaga-074440262)  
+
+🔥 *Always open to AI, ML, and Data Science collaborations!*

@@ -5,12 +5,12 @@
 ---
 
 ## **🚀 Projects & Portfolio**  
-🔹 **Customer Churn Prediction** – Built a machine learning model to predict customer retention and optimize business decisions.  
-🔹 **House Price Prediction** – Developed a regression model leveraging feature engineering for accurate pricing.  
-🔹 **Sentiment Analysis on Social Media Data** – NLP-powered model to classify sentiments in tweets and user reviews.  
-🔹 **Marketing & Sales Data Analysis** – Analyzed CRM data with Power BI to track and optimize sales performance.  
-🔹 **AI-Powered Chatbot** – Built an NLP-based chatbot using OpenAI APIs.  
-🔹 **Automated ML Pipelines** – End-to-end MLOps workflow with Azure ML, Docker, and GitHub Actions.  
+🔹 **[Customer Churn Prediction]()** – Built a machine learning model to predict customer retention and optimize business decisions.  
+🔹 **[House Price Prediction]()** – Developed a regression model leveraging feature engineering for accurate pricing.  
+🔹 **[Sentiment Analysis on Social Media Data]()** – NLP-powered model to classify sentiments in tweets and user reviews.  
+🔹 **[Marketing & Sales Data Analysis]()** – Analyzed CRM data with Power BI to track and optimize sales performance.  
+🔹 **[AI-Powered Chatbot]()** – Built an NLP-based chatbot using OpenAI APIs.  
+🔹 **[Automated ML Pipelines]()** – End-to-end MLOps workflow with Azure ML, Docker, and GitHub Actions.  
 
 ---
 
@@ -78,7 +78,8 @@
 ## **📫 Connect with Me**  
 📩 **Email:** ahmedgaboelnaga@gmail.com  
 📱 **Phone:** +20 1289720964  
-🌐 **GitHub:** [github.com/ahmedgaboelnaga](https://github.com/ahmedgaboelnaga)  
-🔗 **LinkedIn:** [linkedin.com/in/ahmed-aboelnaga-074440262](https://linkedin.com/in/ahmed-aboelnaga-074440262)  
+🌐 **[Website]()**
+🔗 **[Github](https://github.com/ahmedgaboelnaga)**
+🔗 **[Linkedin](https://www.linkedin.com/in/ahmedgaboelnaga/)**   
 
 🔥 *Always open to AI, ML, and Data Science collaborations!*

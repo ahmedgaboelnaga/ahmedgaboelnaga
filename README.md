@@ -1,67 +1,83 @@
-# **Ahmed Aboelnaga**  
+# Ahmed Aboelnaga
 
-👋 Hey there! I'm Ahmed, a **Data Scientist & Machine Learning Engineer** passionate about **building AI-driven solutions**, **optimizing ML workflows**, and **extracting actionable insights from data**.  
+AI undergraduate (Egyptian Russian University, Badr) building **production-ready backend systems** and **applied ML/AI projects**. I enjoy turning ideas into working products: APIs, ML pipelines, and interactive demos — with a focus on clean engineering, evaluation, and deployment.
 
-💡 My expertise lies in **predictive modeling, NLP, and MLOps**, and I enjoy solving real-world problems with AI.  
-
----
-
-## **🚀 Key Projects**  
-
-🔹 **Customer Churn Prediction** – Developed an **XGBoost model (88% accuracy)** to help businesses **reduce churn by 15%**, improving retention strategies.  
-
-🔹 **House Price Prediction** – Built a **regression model with feature engineering**, achieving a **mean absolute error of 3.5%** in price estimation.  
-
-🔹 **Sentiment Analysis on Social Media Data** – Created an **NLP pipeline (VADER, BERT)** to classify customer sentiment with **85% accuracy** on real-world Twitter data.  
-
-🔹 **Marketing & Sales Data Analysis** – Designed **interactive dashboards (Power BI)** to track key **sales KPIs**, boosting revenue insights by **30% efficiency**.  
-
-🔹 **AI-Powered Chatbot** – Developed an **NLP-based chatbot using OpenAI APIs**, automating **customer support queries by 40%**.  
-
-🔹 **Automated ML Pipelines** – Built an **end-to-end MLOps workflow** using **Azure ML, Docker, and GitHub Actions** for scalable ML model deployment.  
+- Location: Badr City / Cairo, Egypt
+- English: C1
+- Email: ahmedgaboelnaga@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ahmedgaboelnaga/
 
 ---
 
-## **🛠️ Technical Skills**  
-
-### **Programming & Software Engineering**  
-✔ **Proficient:** Python | SQL | Git (GitHub)  
-✔ **Familiar:** C++ | Java | Bash Scripting  
-✔ **Software Engineering:** CI/CD | Unit Testing | Version Control  
-
-### **Machine Learning & AI**  
-✔ **Expert:** Supervised & Unsupervised Learning (Scikit-learn, XGBoost)  
-✔ **Proficient:** Data Preprocessing, Feature Engineering, NLP (spaCy, Transformers)  
-✔ **Familiar:** TensorFlow | PyTorch | LLMs  
-
-### **Data Visualization & Analytics**  
-✔ Power BI | Tableau | Excel | Matplotlib & Seaborn  
-
-### **Cloud & MLOps**  
-✔ **Proficient:** Microsoft Azure | Docker | Model Deployment  
-✔ **Familiar:** AWS (S3, EC2, ECS) | Kubernetes | MLflow  
+## What I work on
+- **Backend Engineering (Python):** FastAPI, SQLAlchemy, Alembic, Celery, PostgreSQL, auth (OAuth2/JWT), testing (Pytest)
+- **Applied ML/AI:** scikit-learn, TensorFlow, PyTorch, NLP (NLTK/spaCy/Transformers), Computer Vision (OpenCV/YOLOv8)
+- **GenAI:** OpenAI API, local LLM apps with **Ollama**, prompt engineering, early RAG learning
+- **DevOps/Cloud:** Docker/Docker Compose, **GitHub Actions**, Azure (VMs, Containers, Blob Storage, Azure Database)
+- **Demos & Apps:** Streamlit, Gradio, Tkinter, Pygame
+- **Frontend (for prototypes):** HTML, CSS, Tailwind CSS, JavaScript
 
 ---
 
-## **📚 Education & Certifications**  
+## Featured Projects
 
-🎓 **B.Sc. in Computer Science (AI Specialization)** – Egyptian Russian University  
+### FastAPI Social Media API (Production-style REST API)
+**Repo:** https://github.com/ahmedgaboelnaga/fastapi-social-media-app  
+A high-performance social media backend with auth, posts CRUD, and voting.
+- OAuth2 + JWT authentication
+- Search + pagination
+- Voting system (duplicate-vote prevention)
+- Pytest + Docker-friendly setup
 
-🔹 **Microsoft Machine Learning Engineer** – Digital Egypt Pioneers Initiative  
-🔹 **Machine Learning by Andrew Ng** (Coursera)  
-🔹 **Deep Learning Specialization** (Coursera)  
-🔹 **Mathematics for Machine Learning** (Coursera)
-🔹 **Introduction to Statistics** (Coursera)
-🔹 **HCIA-AI V3.5 Course** (Huawei)  
+Live docs:
+- Swagger: http://172.161.93.35/api/docs
+- ReDoc: http://172.161.93.35/api/redoc
 
 ---
 
-## **📫 Connect with Me**  
+### Brain Tumor Detection & Classification (DEPI Graduation Project)
+**Repo:** https://github.com/ahmedgaboelnaga/Image-Classification-and-Object-Detection-System  
+Deep learning pipeline for MRI tumor **classification** (EfficientNetB5) + **detection** (YOLOv8).
+- Precision: **91.24%**, Recall: **89.63%**, mAP@0.5: **96.27%**
+- Class imbalance handling (augmentation, class weighting)
+- Flask web app for inference + visualization
 
-📩 **Email:** ahmedgaboelnaga@gmail.com  
-📱 **Phone:** +20 1289720964  
-🔗 **[GitHub](https://github.com/ahmedgaboelnaga)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/ahmedgaboelnaga/)**  
-🌐 **[Website]()**  
+---
 
-🔥 *Always open to AI, ML, and Data Science collaborations!*  
+### Hybrid Sentiment Analysis System (CNN–RNN + GUI)
+**Repo:** https://github.com/ahmedgaboelnaga/Discovering-movie-review-sentiment-using-deep-learning  
+Hybrid CNN + (LSTM/GRU) architectures with a Tkinter GUI for real-time predictions.
+- Best model (CNN_BiGRU): **89.34% accuracy**
+- Evaluation dashboards (confusion matrices, comparison charts)
+
+---
+
+### BandAI Landing Page (Deployed)
+**Live:** https://ahmedgaboelnaga.github.io/BandAI/  
+Responsive landing page built with HTML/CSS/Tailwind.
+
+---
+
+## UI/UX
+### IN YOUR SHOE — Mobile App UI/UX (64+ screens)
+**Behance:** https://www.behance.net/gallery/217236607/IN-YOUR-SHOE  
+A full UI/UX case study for an Egyptian local brand, focusing on a clean user journey and consistent design system.
+
+---
+
+## Training
+**Digital Egypt Pioneers Initiative (DEPI) — Microsoft ML Engineer Track**  
+120+ hours of applied ML training across NLP, CV, and deep learning with project-based work.
+
+---
+
+## Currently learning / improving
+- RAG fundamentals (vector databases like FAISS/Chroma)
+- Better MLOps patterns (testing, packaging, reproducibility)
+- More classroom-friendly demos (small projects to explain coding + AI concepts)
+
+---
+
+## Contact
+- Email: ahmedgaboelnaga@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ahmedgaboelnaga/

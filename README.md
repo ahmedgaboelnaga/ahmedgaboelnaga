@@ -17,7 +17,7 @@ Point a camera at an object, and Qwen3-VL identifies it, SAM2 segments it, and t
 
 ### NextGen Banking API: ML-enabled backend
 Async banking backend (OAuth2/JWT, transactions, Redis, Celery) with a gradient-boosting fraud detection pipeline, MLflow experiment tracking, Pytest, and GitHub Actions CI/CD.
-🔗 [Repo]([NextGen link])
+🔗 [Repo](https://github.com/ahmedgaboelnaga/NextGen-Banking-API)
 
 ### FastAPI Social Media API
 REST API with JWT auth, posts CRUD, voting, search and pagination, Pytest, Docker.
